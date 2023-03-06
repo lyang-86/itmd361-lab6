@@ -43,10 +43,10 @@
 #sidebar ul {
   list-style-type: none;
   text-align: center;
-  padding: 0;         
+  padding: 0;
 }
 #sidebar ul li a {
-  display: block;				 
+  display: block;
   padding: 15px 0;
   color: #fff;
   text-decoration: none;
